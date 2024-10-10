@@ -1,4 +1,4 @@
-# python-Customtkinter-Password-manager
+# Python-Customtkinter-Password-manager
 # Home window
 ![Screenshot 2024-10-10 173948](https://github.com/user-attachments/assets/7c1a64c0-bca7-4bae-b6df-79e2b89af481)
 # Generate window
